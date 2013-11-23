@@ -18,3 +18,4 @@ gem 'coffee-script'
 
 gem 'uglifier'
 gem 'thin'
+gem 'puma'
